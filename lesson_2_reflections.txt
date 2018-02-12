@@ -2,3 +2,5 @@ Create new git repository using "git init"
 It will only create the repository but not have any commits yet.
 
 Staging area allows to add files together and commit them at the same time
+
+Use branches to add and test new features in code while keeping the master file the same
