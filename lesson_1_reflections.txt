@@ -1,0 +1,3 @@
+It allowed to compare two files side by side and show the lines with
+differences. 
+Make sure lines in code are not too long!
